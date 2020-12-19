@@ -61,7 +61,7 @@ hr{
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 15%;
 }
 
 .mountain{
@@ -71,7 +71,7 @@ hr{
 .bottom-cloud{
   position: absolute;
   bottom: 300px;
-  left: 300px;
+  left: 15%;
 }
 
 .heading{
@@ -171,4 +171,5 @@ hr{
 .Goodwill{
   color: #EAF6F6;
   font-family: 'Architects Daughter', cursive;
+  font-size: 0.75rem;
 }
