@@ -34,7 +34,7 @@ a{
 }
 
 a:hover{
-  color: #EAF6F6;
+  color: #03506f;
 }
 
 hr{
@@ -122,11 +122,13 @@ hr{
 
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 80px auto 80px auto;
   text-align: left;
-  font-size:1.5rem;
+  font-size:1.2rem;
 }
-
+.ProjectDetails{
+  font-size: 1rem;
+}
 /*to  create a button */
 .btn {
    background: #11CDD4;
